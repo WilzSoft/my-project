@@ -29,7 +29,7 @@ This is a dynamic prototype of a cloud-hosted landing page showcasing my technic
 
 ## 👩‍💻 About Me
 
-**Name**: Chiamaka Favour  
+**Name**: Anthony Onyeka  
 **Role**: Lead Cloud Engineer  
 **Project Title**: The Future of Smart Cloud Logistics  
 **Pitch**: This project helps businesses optimize delivery through smart cloud-based logistics. It reduces cost and delivery time using real-time monitoring and scalable cloud technology.  
@@ -39,15 +39,10 @@ This is a dynamic prototype of a cloud-hosted landing page showcasing my technic
 
 ## 📍 Live Demo
 
-- **Public IP Address**: [http://98.84.98.231](http://98.84.98.231)  
-- *(Optional)* Custom Domain: [https://yourdomain.com](https://yourdomain.com)  
-> *(Note: Add your real domain name here if you configured one)*
-
+- **Public IP Address**: [http://98.84.98.231]
 ---
 
 ## 🖼️ Screenshot
-
-> Screenshot of the landing page as seen in browser:
 
 <img width="1366" height="768" alt="my-project" src="https://github.com/user-attachments/assets/414f33ca-b054-453f-8de5-fa0c07b7efa8" />
 
@@ -73,6 +68,6 @@ sudo nano /var/www/html/index.html
 
 📬 Contact
 
-GitHub: your-username
+Name:  Anthony Onyeka 
 
-Email: yourname@example.com
+Email: wilz.soft@hotmail.com
