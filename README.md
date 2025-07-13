@@ -49,7 +49,8 @@ This is a dynamic prototype of a cloud-hosted landing page showcasing my technic
 
 > Screenshot of the landing page as seen in browser:
 
-![Landing Page Screenshot](screenshot.png)
+<img width="1366" height="768" alt="my-project" src="https://github.com/user-attachments/assets/414f33ca-b054-453f-8de5-fa0c07b7efa8" />
+
 
 ---
 
